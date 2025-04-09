@@ -11,7 +11,7 @@ This project is a simple command-line application that allows users to generate 
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/yourusername/hash-generator.git
+   git clone https://github.com/betorph235/hash-generator.git
    ```
 
 2. Navigate to the project directory:
